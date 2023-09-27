@@ -1,0 +1,10 @@
+/.pytest_cache
+/.vscode
+/__pycache__
+/assets
+/minesweeper_test.py
+/requirements.txt
+/runner.py
+/runnerOLD.py
+/simple_test.py
+/simple_tests.py
